@@ -1,0 +1,6 @@
+Quais funcionalidades existem na área de “Solicitar Requerimento de Autorização de Pesquisa”?
+===========================================================================
+
+Na tela de acesso inicial do sistema, ao clicar na funcionalidade “Solicitar Requerimento de Autorização de Pesquisa”, o sistema lhe direciona para a tela “Minhas Solicitações de Requerimento de Autorização de Pesquisa Mineral”. 
+
+Lá, você consegue Consultar Solicitações, Gerar Boleto de Autorização de Pesquisa e também Solicitar Requerimentos de Pesquisa.
