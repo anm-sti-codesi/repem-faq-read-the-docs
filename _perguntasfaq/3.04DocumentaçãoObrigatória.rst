@@ -13,6 +13,7 @@ Será necessário a inclusão de pelo menos um Responsável Técnico para a real
 -----------------------------------------------------------------------
 
 Responsável Técnico: Nome, CPF, CREA, Profissão e ART (única por requerimento). 
+
 Representante Legal (caso haja): Nome, CPF/CNPJ 
 
 
