@@ -11,7 +11,7 @@ Ao realizar uma Nova Solicitação de Requerimento de Autorização de Pesquisa 
 3.2) Quanto tempo leva para o sistema reconhecer que o boleto foi pago?
 -----------------------------------------------------------------------
 
-Após o pagamento do boleto, o sistema leva, normalmente, dois dias para atualizar a Situação do seu boleto para “Pago”. 
+Após o pagamento do boleto, o sistema leva, normalmente, dois dias úteis para atualizar a Situação do seu boleto para “Pago”. 
 
 
 3.3) Posso começar a preencher o meu Requerimento de Autorização de Pesquisa e finalizá-lo depois?
