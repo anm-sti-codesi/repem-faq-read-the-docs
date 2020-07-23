@@ -1,7 +1,7 @@
-Documentação Obrigatória
+Documentação
 =======================================================================
 
-3.1) Quem eu preciso incluir na Documentação Obrigatória?
+3.1) Quem eu preciso incluir na Documentação?
 -----------------------------------------------------------------------
 
 Será necessário a inclusão de pelo menos um Responsável Técnico para a realização do Requerimento.
@@ -9,11 +9,10 @@ Será necessário a inclusão de pelo menos um Responsável Técnico para a real
 .. image:: ../imagens/imagem16.png
 
 
-3.2) Quais documentos de terceiros eu preciso para que possa realizar a Solicitação de Requerimento de Autorização de Pesquisa?
+3.2) Quais documentos de terceiros que eu preciso para que possa realizar a Solicitação de Requerimento de Autorização de Pesquisa?
 -----------------------------------------------------------------------
 
-Responsável Técnico*: Nome, CPF, CREA, Profissão e ART (única por requerimento). 
-*OBS: Caso haja mais de um responsável técnico, não será possível repetir CPF, CREA nem ART.
+Responsável Técnico: Nome, CPF, CREA, Profissão e ART (única por requerimento). 
 Representante Legal (caso haja): Nome, CPF/CNPJ 
 
 

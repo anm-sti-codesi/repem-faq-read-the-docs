@@ -1,18 +1,16 @@
 Inserindo Poligonal “Área”
 =======================================================================
 
-3.1) Como insiro a Longitude e Latitude dos locais que desejo fazer a minha pesquisa?
+3.1) Como insiro a Longitude e Latitude das coordenadas da área que desejo fazer a minha pesquisa?
 -----------------------------------------------------------------------
 
-As coordenadas só poderão ser incluídas se estiverem exatamente com rumos NS/EW.
- 
-De acordo com esta norma, a latitude ou a longitude de um ponto deve ser igual ao ponto anterior. A coordenada em negrito repete a coordenada anterior como o exemplo logo abaixo.
+A poligonal deve ser delimitada obrigatoriamente por coordenadas geodésicas DATUM SIRGAS 2000, onde cada vértice formará continuidade com o vértice seguinte, devendo a latitude ou longitude de um ponto ser igual à do ponto anterior, em rumos verdadeiros Norte-Sul ou Leste-Oeste. Os vértices não poderão se cruzar, salvo os seguimentos de reta que formam os lados da poligonal.
  
 (1) -18°36'07''809 -40°56'10''360
 (2) -18°36'07''809 -40°55'43''256
 (3) -18°36'30''245 -40°55'43''256
  
-Se uma das coordenadas não estiver idêntica à do ponto anterior, o sistema vai negar a entrada do novo ponto. É necessário a inclusão de cinco coordenadas.
+É necessário a inclusão de pelo menos cinco coordenadas. 
 As coordenadas geodésicas estão alinhadas segundo o Norte Verdadeiro, enquanto as coordenadas UTM estão alinhadas segundo o Norte da Quadrícula. Por este motivo, considerando dois pares de coordenadas UTM com o Norte ou Leste fixo, ao efetuar a conversão UTM para geodésica, os valores dos décimos, centésimos e milésimos de segundo vão necessariamente variar para as coordenadas UTM fixas, conforme observado no exemplo abaixo.
 
 .. image:: ../imagens/imagem9.png
@@ -23,7 +21,8 @@ Para entrar com os dados no sistema será necessário ajustar os valores dos dé
 3.2) Formato das coordenadas 
 -----------------------------------------------------------------------
 
-É necessário que o formato das coordenadas esteja igual ao do exemplo abaixo, com todas as casas decimais exibidas. Caso as três casas depois do ponto não sejam incluídas, o programa vai recusar a entrada da coordenada.
+É necessário que o formato das coordenadas estejam geodésicas DATUM SIRGAS 2000, como no exemplo abaixo, com todas as casas decimais exibidas. Caso as três casas depois do ponto não sejam incluídas, o programa vai recusar a entrada da coordenada.
+
 Exemplo:
 014º 52’26.000 x 052º 50’50.000’’
  
@@ -46,12 +45,12 @@ Notar o erro ao final deste arquivo (;;;;) resultante da presença de dados nulo
 3.4) Incluir coordenadas usando arquivo .GPX
 -----------------------------------------------------------------------
 
-Para adicionar coordenadas usando arquivo .GPX segue a mesma regra dos rumos NS/EW, a coordenada deve ser idêntica ao ponto anterior e a coordenada do primeiro ponto deve ser igual ao do último, entretanto o arquivo tem que estar como polígono. Se o arquivo estiver com pontos não será aceito.
+Para adicionar coordenadas usando arquivo .GPX segue a mesma regra dos rumos NS/EW, a latitude ou longitude deve ser idêntica ao ponto anterior e a coordenada do primeiro ponto deve ser igual ao do último, entretanto o arquivo tem que estar como polígono. Se o arquivo estiver com pontos não será aceito.
 
 
 3.5) Incluir um último ponto igual ao primeiro ponto
 -----------------------------------------------------------------------
-Ao finalizar a poligonal é necessário que o último ponto seja igual ao primeiro, para que o polígono seja fechado. Algumas vezes, com o ajuste dos décimos de segundos, ao final da poligonal não se consegue incluir um último ponto igual ao primeiro, já que não existe nenhuma coordenada comum entre eles. Neste caso será necessário incluir um ponto intermediário, conforme exemplo abaixo, para depois adicionar o ponto final.
+Ao finalizar a poligonal é necessário que o último ponto deve ser igual ao primeiro, para que o polígono seja fechado. Algumas vezes, com o ajuste dos décimos de segundos, ao final da poligonal não se consegue incluir um último ponto igual ao primeiro, já que não existe nenhuma coordenada comum entre eles. Neste caso será necessário incluir um ponto intermediário, conforme exemplo abaixo, para depois adicionar o ponto final.
 Exemplo inclusão ponto intermediário:
 A poligonal deste exemplo terminava no ponto 11. Neste caso, nenhuma das coordenadas (latitude ou longitude) é igual ao ponto 1. Inclui-se então o ponto 12, mantendo uma das coordenadas igual à do ponto 12 (no exemplo, a latitude) e modificando a outra coordenada para que fique igual à do ponto 1 (no exemplo, a longitude). Feito isto, basta incluir o último ponto igual ao primeiro (no exemplo, ponto 13).
 
@@ -60,7 +59,7 @@ A poligonal deste exemplo terminava no ponto 11. Neste caso, nenhuma das coorden
 3.6) É possível solicitar uma substância com um determinado tipo de uso que tenha uma área máxima menor que a área requerida?
 -----------------------------------------------------------------------
 
-Não. Não é possível requerer uma área de Substancia X Tipo de uso que seja menor do que a área máxima permitida.
+Não é possível requerer uma poligonal que a área total seja maior que a área máxima permitida conforme a substância e tipo de uso selecionados.
 
 .. image:: ../imagens/imagem11.png
 
@@ -68,8 +67,10 @@ Não. Não é possível requerer uma área de Substancia X Tipo de uso que seja 
 3.7) A área na qual quero fazer o meu Requerimento de Pesquisa está ocupada. Como o sistema vai proceder nesse caso?
 -----------------------------------------------------------------------
 
-Se for uma área ocupada, o sistema vai criar o processo e o direciona a caixa SEI da Unidade Regional que é responsável por aquele processo (a UF é a predominante que você selecionou), o que tirará o seu processo da esteira automática da ANM.
-Caso, durante o preenchimento do Requerimento a área que você você estava solicitando passou de livre para ocupada, a sua solicitação será enviada para a Análise do Controle de Áreas da ANM e seu prazo de atendimento será superior aos 34 dias úteis.
+Se a área requerida estiver ocupada, conforme validação realizada no Passo 02 - Área, ao final do Passo 05 – Conclusão, quando o botão Finalizar for acionado a aplicação vai realizar outra validação, para verificar se a área continua ocupada ou se ficou livre.
+Caso a área permaneça ocupada, a aplicação exibirá uma mensagem avisando que a área continua com interferência e irá protocolizar o requerimento, criando o processo no SEI e no SCM (Sistema de Cadastro Mineiro). O processo deste requerimento é encaminhado para a caixa SEI da Unidade Regional responsável (a UF é a predominante que você selecionou no Passo 02 – Área, em casos de poligonais que estejam situadas em mais de um município e UF), o que tirará o seu processo da esteira automática da ANM; o prazo de análise será superior aos 34 dias úteis.
+Este mesmo fluxo será aplicado aos casos em que a área estava livre na verificação do Passo 02 – Área e após a revalidação no Passo 05 – Conclusão, a aplicação verificar que a área foi ocupada.
+
 
 
 3.8) É obrigatório adicionar as Substâncias e um Superficiário para seguir adiante com o processo do Requerimento?

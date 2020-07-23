@@ -6,6 +6,6 @@ Opção 1: Após o login, imediatamente aparecerá uma tela pedindo para que voc
 
 .. image:: ../imagens/imagem1.png
 
-Opção 2: No canto superior direito da tela de início do portal, há um campo de texto no qual você consegue alterar o seu representante. Lá, estarão todos os seus representados (caso haja mais de um). Ao operar a troca, caso esteja alterando seu representante como uma Pessoa Física para uma Pessoa Jurídica, os campos de Nome e CPF mudarão para Razão Social da Empresa e CNPJ, respectivamente. E vice-e-versa.
+Opção 2: No canto superior direito da tela de início do portal, há um campo de texto no qual você consegue alterar o seu representante. Lá, estarão todos os seus representados (caso haja mais de um). Ao operar a troca, caso esteja alterando seu representante como uma Pessoa Física para uma Pessoa Jurídica, os campos de Nome e CPF mudarão para Razão Social da Empresa e CNPJ, respectivamente. E vice-versa.
 
 .. image:: ../imagens/imagem2.png

@@ -4,25 +4,24 @@ Conclusão
 3.1) O que acontece após a conclusão do Requerimento de Autorização de Pesquisa?
 -----------------------------------------------------------------------
 
-Após concluir o Requerimento, você receberá um e-mail de solicitação cadastrada. O processo, quando feito corretamente e sem a adição posterior de alguma juntada, leva, em média 1 mês para a liberação do alvará.
+Após concluir o Requerimento, você receberá um e-mail de conclusão da solicitação protocolizada. Quando a área é livre e não há adição posterior de algum documento (juntada) no processo do requerimento de autorização de pesquisa, leva 34 dias úteis para o deferimento e liberação do alvará.
 
 
-3.2) Caso haja alguma anexação de documento no meu Requerimento (juntada) posteriormente a elaboração do mesmo, meu processo sairá da esteira da ANM?
+3.2) Caso haja alguma inserção de documento no meu Requerimento (juntada) posteriormente a elaboração do mesmo, meu processo sairá da esteira da ANM?
 -----------------------------------------------------------------------
 
-Sim. Caso haja alguma juntada ao seu Requerimento (seja por você ou pela própria ANM), seu processo sai da esteira automática, uma vez que entendemos
-que haverá a necessidade de verificação do novo conteúdo incluído ao Requerimento. Sendo assim, o processo é encaminhado para a Unidade SEI da UF do seu processo.
+Sim. Caso haja alguma juntada no seu Requerimento (seja por você ou pela própria ANM) em requerimentos de área livre, seu processo sai da esteira automática, uma vez que entendemos que haverá a necessidade de análise manual do novo conteúdo incluído no processo do Requerimento. Sendo assim, o processo é encaminhado para a Unidade SEI da UF predominante da área requerida.
 
 
 3.3) Existe alguma possibilidade da área que eu requeri que estava livre, ser ocupada após a conclusão do processo de Requerimento?
 -----------------------------------------------------------------------
 
-Sim. Existe um tipo de Requerimento chamado Licenciamento que é feito direto nas prefeituras, e geralmente eles demoram a ser comunicados, além da base dele não possuir integração com a base da ANM. Sendo assim, existe a possibilidade de alguém ter processado um Requerimento da área posteriormente à você. 
+Sim. Existe um tipo de Requerimento chamado Licenciamento que é feito direto nas prefeituras, e geralmente eles demoram a ser comunicados, além da base dele não possuir integração com a base da ANM. Sendo assim, há a possibilidade de alguém ter registrado um Licenciamento da mesma área que você requereu, que não estará mais livre.
 
-Portanto, para a obtenção do alvará, não pode ser constatado nenhum Licenciamento durante o período de avaliação do seu Requerimento.
+Portanto, para a obtenção do alvará a área deve permanecer livre ao final do período de análise, não podendo ser constatado nenhum Licenciamento (ou juntada de documentos) durante este período.
 
 
-3.4) Quanto tempo leva para que a ANM me libere o alvará da área Área Livre que escolhi para realizar o meu projeto?
+3.4) Quanto tempo leva para que a ANM me libere o alvará da Área Livre que escolhi para realizar o meu projeto?
 -----------------------------------------------------------------------
 
-Esse processo leva, em média, um mês.
+Esse processo leva até 34 dias úteis.
