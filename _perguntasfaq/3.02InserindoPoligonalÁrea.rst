@@ -21,7 +21,7 @@ Para entrar com os dados no sistema será necessário ajustar os valores dos dé
 3.2) Formato das coordenadas 
 -----------------------------------------------------------------------
 
-É necessário que o formato das coordenadas estejam geodésicas DATUM SIRGAS 2000, como no exemplo abaixo, com todas as casas decimais exibidas. Caso as três casas depois do ponto não sejam incluídas, o programa vai recusar a entrada da coordenada.
+É necessário utilizar coordenadas geodésicas no Datum SIRGAS 2000, como no exemplo abaixo, com todas as casas decimais exibidas. Caso as três casas depois do ponto não sejam incluídas, o programa vai recusar a entrada da coordenada.
 
 Exemplo:
 014º 52’26.000 x 052º 50’50.000’’
