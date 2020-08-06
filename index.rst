@@ -1,4 +1,4 @@
-FAQ Sistema de Requerimento de Pesquisa Mineral - ANM
+FAQ Sistema de Requerimento de Pesquisa Mineral
 ===============
 
 .. toctree::
