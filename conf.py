@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'FAQ Solicitação e Requerimento'
+project = u'FAQ Sistema de Requerimento de Pesquisa Mineral'
 copyright = u'2020, ANM'
 author = u'ANM'
 

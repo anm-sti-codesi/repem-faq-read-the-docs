@@ -1,10 +1,10 @@
 Conclusão
 =======================================================================
 
-3.1) O que acontece após a conclusão do Requerimento de Autorização de Pesquisa?
+3.1) O que acontece após a conclusão do Requerimento de Autorização de Pesquisa Mineral?
 -----------------------------------------------------------------------
 
-Após concluir o Requerimento, você receberá um e-mail de conclusão da solicitação protocolizada. Quando a área é livre e não há adição posterior de algum documento (juntada) no processo do requerimento de autorização de pesquisa, leva 34 dias úteis para o deferimento e liberação do alvará.
+Após concluir o Requerimento, você receberá um e-mail de conclusão da solicitação protocolizada. Quando a área é livre e não há adição posterior de algum documento (juntada) no processo do requerimento de autorização de pesquisa mineral, leva 34 dias úteis para o deferimento e liberação do alvará.
 
 
 3.2) Caso haja alguma inserção de documento no meu Requerimento (juntada) posteriormente a elaboração do mesmo, meu processo sairá da esteira da ANM?
@@ -25,3 +25,10 @@ Portanto, para a obtenção do alvará a área deve permanecer livre ao final do
 -----------------------------------------------------------------------
 
 Esse processo leva até 34 dias úteis.
+
+
+3.5) O que acontecerá com os pré-requerimentos, que já foram preenchidos e enviados, e que estarão na validade de 30 dias quando o novo requerimento entrar em produção?
+-----------------------------------------------------------------------
+
+Os pré-requerimentos feitos no SCM até o dia 11/08 deverão ser protocolizados no sistema de protocolo até dia 11/09. A partir do dia 12/08, todos os requerimentos já deverão ser feitos no novo sistema.
+

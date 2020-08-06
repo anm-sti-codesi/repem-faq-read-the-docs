@@ -14,7 +14,7 @@ Ao realizar uma Nova Solicitação de Requerimento de Autorização de Pesquisa 
 Após o pagamento do boleto, o sistema leva, normalmente, dois dias úteis para atualizar a Situação do seu boleto para “Pago”. 
 
 
-3.3) Posso começar a preencher o meu Requerimento de Autorização de Pesquisa e finalizá-lo depois?
+3.3) Posso começar a preencher o meu Requerimento de Autorização de Pesquisa Mineral e finalizá-lo depois?
 -----------------------------------------------------------------------
 
 Não. Caso você pare o fluxo da sua solicitação no meio do caminho, a mesma não será salva. Será necessário repetir todo o processo. O requerimento apenas é protocolizado após a conclusão no Passo 05.
