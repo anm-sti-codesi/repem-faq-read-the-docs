@@ -17,6 +17,6 @@ Após o pagamento do boleto, o sistema leva, normalmente, dois dias úteis para 
 3.3) Posso começar a preencher o meu Requerimento de Autorização de Pesquisa Mineral e finalizá-lo depois?
 -----------------------------------------------------------------------
 
-Não. Caso você pare o fluxo da sua solicitação no meio do caminho, a mesma não será salva. Será necessário repetir todo o processo. O requerimento apenas é protocolizado após a conclusão no Item 05.
+Não. Caso você pare o fluxo da sua solicitação no meio do caminho, a mesma não será salva. Será necessário repetir todo o processo. O requerimento apenas é protocolizado após a conclusão no Item 05 - Conclusão.
 
 
