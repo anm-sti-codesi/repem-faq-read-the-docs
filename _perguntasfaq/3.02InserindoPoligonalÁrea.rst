@@ -21,7 +21,7 @@ Para entrar com os dados no sistema será necessário ajustar os valores dos dé
 3.2) Formato das coordenadas 
 -----------------------------------------------------------------------
 
-É necessário utilizar coordenadas geodésicas no Datum SIRGAS 2000, como no exemplo abaixo, com todas as casas decimais exibidas. Caso as três casas depois do ponto não sejam incluídas, o programa vai recusar a entrada da coordenada.
+É necessário que as coordenadas geodésicas estejam no DATUM SIRGAS 2000, como no exemplo abaixo, com todas as casas decimais exibidas. Caso as três casas depois do ponto não sejam incluídas, o programa vai recusar a entrada da coordenada.
 
 Exemplo:
 014º 52’26.000 x 052º 50’50.000’’
@@ -67,9 +67,9 @@ Não é possível requerer uma poligonal que a área total seja maior que a áre
 3.7) A área na qual quero fazer o meu Requerimento de Pesquisa está ocupada. Como o sistema vai proceder nesse caso?
 -----------------------------------------------------------------------
 
-Se a área requerida estiver ocupada, conforme validação realizada no Passo 02 - Área, ao final do Passo 05 – Conclusão, quando o botão Finalizar for acionado a aplicação vai realizar outra validação, para verificar se a área continua ocupada ou se ficou livre.
-Caso a área permaneça ocupada, a aplicação exibirá uma mensagem avisando que a área continua com interferência e irá protocolizar o requerimento, criando o processo no SEI e no SCM (Sistema de Cadastro Mineiro). O processo deste requerimento é encaminhado para a caixa SEI da Unidade Regional responsável (a UF é a predominante que você selecionou no Passo 02 – Área, em casos de poligonais que estejam situadas em mais de um município e UF), o que tirará o seu processo da esteira automática da ANM; o prazo de análise será superior aos 34 dias úteis.
-Este mesmo fluxo será aplicado aos casos em que a área estava livre na verificação do Passo 02 – Área e após a revalidação no Passo 05 – Conclusão, a aplicação verificar que a área foi ocupada.
+Se a área requerida estiver ocupada, conforme validação realizada no Item 02 - Área, ao final do Item 05 – Conclusão, quando o botão Finalizar for acionado a aplicação vai realizar outra validação, para verificar se a área continua ocupada ou se ficou livre.
+Caso a área permaneça ocupada, a aplicação exibirá uma mensagem avisando que a área continua com interferência e irá protocolizar o requerimento, criando o processo no SEI e no SCM (Sistema de Cadastro Mineiro). O processo deste requerimento é encaminhado para a caixa SEI da Unidade Regional responsável (a UF é a predominante que você selecionou no Item 02 – Área, em casos de poligonais que estejam situadas em mais de um município e UF), o que tirará o seu processo da esteira automática da ANM; o prazo de análise será superior aos 34 dias úteis.
+Este mesmo fluxo será aplicado aos casos em que a área estava livre na verificação do Item 02 – Área e após a revalidação no Item 05 – Conclusão, a aplicação verificar que a área foi ocupada.
 
 
 
