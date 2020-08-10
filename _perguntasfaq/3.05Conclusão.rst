@@ -33,7 +33,7 @@ Esse processo leva até 34 dias úteis.
 Os pré-requerimentos feitos no SCM até o dia 11/08 deverão ser protocolizados no sistema de protocolo até dia 11/09. A partir do dia 12/08, todos os requerimentos já deverão ser feitos no novo sistema.
 
 
-3.6) Pre-requerimento efetuado e que está na data de validade (30 dias) será aceito no Protocolo da ANM com a entrada do novo Requerimento de Autorização de Pesquisa em produção?
+3.6) Pré-requerimento efetuado e que está na data de validade (30 dias) será aceito no Protocolo da ANM com a entrada do novo Requerimento de Autorização de Pesquisa em produção?
 -----------------------------------------------------------------------
 
 Sim, será aceito no protocolo até a data de vencimento do requerimento, não podendo ultrapassar 30 dias da entrada do requerimento em produção.
