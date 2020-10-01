@@ -79,3 +79,12 @@ Este mesmo fluxo será aplicado aos casos em que a área estava livre na verific
 Sim. É obrigatória a inserção de pelo menos uma Substância (informando o tipo de uso) e de um Superficiário.
 
 .. image:: ../imagens/imagem12.png
+
+
+3.9) O que eu faço para verificar se a área está livre antes de uma Solicitação de Requerimento (REPEM)?
+-----------------------------------------------------------------------
+
+Faça uma consulta no webmap - Sistema de Informações Geográficas da Mineração – SIGMINE da ANM.
+Nele estão disponíveis todas as informações sobre possíveis interferências para requerer uma área.
+http://sigmine.dnpm.gov.br/webmap/
+
