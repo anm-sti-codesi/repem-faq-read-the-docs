@@ -1,7 +1,7 @@
 Posso concluir o Requerimento de Autorização de Pesquisa Mineral antes de efetuar o pagamento do boleto?
 ================================================
 
-Não. Para evitar o indeferimento de plano, pague o boleto antes de continuar o requerimento de autorização de pesquisa mineral. Caso continue o requerimento de autorização de pesquisa mineral sem tê-lo pago antes, quando concluir no Item 05 - Conclusão a aplicação irá considerar indeferimento de plano por falta de pagamento.
+Sim pode! Para evitar o indeferimento de plano, pague o boleto antes de continuar o requerimento de autorização de pesquisa mineral. Caso continue o requerimento de autorização de pesquisa mineral sem tê-lo pago antes, quando concluir no Item 05 - Conclusão a aplicação irá considerar indeferimento de plano por falta de pagamento.
 
 .. image:: ../imagens/imagem4.png
 
