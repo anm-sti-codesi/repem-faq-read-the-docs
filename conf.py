@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'FAQ Sistema de Requerimento de Pesquisa Mineral'
-copyright = u'2020, ANM'
+copyright = u'2023, ANM'
 author = u'ANM'
 
 # The short X.Y version
