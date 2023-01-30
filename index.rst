@@ -15,7 +15,7 @@ FAQ Sistema de Requerimento de Pesquisa Mineral
    :caption: VISUALIZANDO O NOVO PORTAL
 
    _perguntasfaq/2.1FuncionalidadesNaÁreaDeSolicitarRequerimento
-   .. _perguntasfaq/2.2PossoConcluirORequerimentoAntesDeEfetuarOPagamento
+   _perguntasfaq/2.2PossoConcluirORequerimentoAntesDeEfetuarOPagamento
    _perguntasfaq/2.3PrecisoImprimirNovamenteOMeuBoletoComoFaçoIsso
    _perguntasfaq/2.4OQueFazerDepoisDePagarOBoleto
 
