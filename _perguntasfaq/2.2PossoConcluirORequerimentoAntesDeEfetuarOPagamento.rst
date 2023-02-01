@@ -7,4 +7,4 @@ Sim. Para evitar o indeferimento de plano, pague o boleto vinculado ao requerime
 
 .. image:: ../imagens/imagem4.png
 
-.. .. image:: ../imagens/imagem5.png
+.. ../imagens/imagem5.png
